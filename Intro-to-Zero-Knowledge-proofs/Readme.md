@@ -29,5 +29,7 @@ Once, Bob takes away the carbon, he would have successfully convinced Alice that
 For a method to qualify as a ZKP, it must satisfy the following conditions:
 
 Completeness: This condition simply means that if Bob (the prover) was honest and not lying, he should be able to totally convince Alice (the verifier), that he is saying the truth.
+
 Soundness: This condition means that if Bob was a cheat, he should never be able to deceive Alice into believing his lies.
+
 Zero-Knowledge: This condition simply means that Bob should be able to totally convince Alice, that he knows Waldo’s location, without revealing it.
