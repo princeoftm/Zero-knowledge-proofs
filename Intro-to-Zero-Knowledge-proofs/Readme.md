@@ -11,6 +11,9 @@ But i never actually understood one thing
 But i have an idea of how to implement this
 
 WALDO
+
+
+
 ![alt text](image-1.png)
 
 You see waldo who was created by Martin Handford in 1987 was a character in a childrens book.
