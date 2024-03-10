@@ -27,3 +27,5 @@ v=<a,2^n>
 We need to prove that :
 1)The assignment of a is correct 
 2)We can commit to pederson commitments
+
+
