@@ -61,3 +61,6 @@ Simplifying:
 \[ P(x) = 4x - 4 \]
 
 So, the Lagrange polynomial passing through the points (1,0) and (2,4) is \( P(x) = 4x - 4 \).
+
+
+
